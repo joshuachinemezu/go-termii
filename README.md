@@ -7,7 +7,7 @@
 ### Install Package
 
 ```bash
-go get github.com/Uchencho/go-termii
+go get github.com/joshuachinemezu/go-termii
 ```
 
 ### Documentation
@@ -22,7 +22,7 @@ Please see [the docs](https://developers.termii.com/) for the most up-to-date do
 package main
 
 import (
-    termii "github.com/Uchencho/go-termii"
+    termii "github.com/joshuachinemezu/go-termii"
     "log"
 )
 
